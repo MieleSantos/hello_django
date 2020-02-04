@@ -1,3 +1,3 @@
 # hello_django
 
-Hello World COm Django
+Hello World Com Django
